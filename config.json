@@ -1,0 +1,8 @@
+{
+  "airport": "KJFK",
+  "range": 25,
+  "delay": 0,
+  "floor": 0,
+  "ceiling": 99999,
+  "use_flightaware": true
+}
